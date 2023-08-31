@@ -28,4 +28,4 @@ let f = 16.7 // num
 let g = true // boolean
 let h = false // boolean
 
-console.log(c, e, f, g, h)
+console.log(c, e, g)
